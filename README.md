@@ -2,7 +2,7 @@
 
 **React** Form with **hooks** .
 
-See the [Live Project](https://weather-forcast.pages.dev/).
+See the [Live Project](https://maxjn-hook-form.pages.dev).
 
 ###### Technologies
 
