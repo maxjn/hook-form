@@ -1,0 +1,7 @@
+{
+  "editor.snippetSuggestions": "inline",
+  "editor.quickSuggestionsDelay": 1,
+  "editor.suggest.showStructs": false,
+  "emmet.useInlineCompletions": true,
+  "emmet.showSuggestionsAsSnippets": true
+}

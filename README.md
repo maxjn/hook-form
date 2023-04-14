@@ -27,4 +27,4 @@ npm run start
 
 ###### Image
 
-![Cover](./public/hook-form-cover.png)
+![Cover](./public/cover.png)
