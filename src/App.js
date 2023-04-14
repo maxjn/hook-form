@@ -1,5 +1,11 @@
+import RegisterForm from "./components/RegisterForm";
+
 function App() {
-  return <main className="App">Hello World</main>;
+  return (
+    <main className="App">
+      <RegisterForm />
+    </main>
+  );
 }
 
 export default App;
